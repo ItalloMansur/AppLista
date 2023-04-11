@@ -1,8 +1,10 @@
-package devandroid.mansur.applista;
+package devandroid.mansur.applista.view;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+import devandroid.mansur.applista.R;
 
 public class MainActivity extends AppCompatActivity {
 
